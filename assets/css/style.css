@@ -259,7 +259,7 @@ section {
     color: blue;
   }
   .container {
-    width: 720px;
+    width: 600px;
     margin: 0 auto;
   }
   
@@ -274,7 +274,7 @@ section {
     padding: 20px 20px 20px 20px;
     border: 1px solid #dddddd;
     position: absolute;
-    width: 720px;
+    width: 600px;
     margin: 0 auto;
     margin-bottom: 7%;
   }
@@ -287,7 +287,7 @@ section {
     padding: 20px 20px 20px 20px;
     border: 1px solid lightgrey;
     position: absolute;
-    width: 720px;
+    width: 600px;
     margin: 0 auto;
   }
   
@@ -349,7 +349,7 @@ section {
   }
   
   input[type=submit] {
-    width: 10%;
+    width: 20%;
     background-color: #4CAF50;
     color: white;
     padding: 14px 20px;
@@ -532,7 +532,7 @@ section {
   }
   
   input[type=submit] {
-    width: 10%;
+    width: 20%;
     background-color: #4CAF50;
     color: white;
     padding: 14px 20px;
@@ -713,7 +713,7 @@ section {
   }
   
   input[type=submit] {
-    width: 10%;
+    width: 20%;
     background-color: #4CAF50;
     color: white;
     padding: 14px 20px;
